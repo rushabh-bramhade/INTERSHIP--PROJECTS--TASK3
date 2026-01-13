@@ -12,8 +12,7 @@ The result is displayed on the calculator screen
 The Clear (C) button resets the calculator
 </hr>
 
-✨ Features
-
+<h1>✨ Features</h1>
 </hr>
 
 Basic arithmetic operations (+, −, ×, ÷)
@@ -27,14 +26,13 @@ Clean UI with readable display
 Beginner-friendly code structure
 </hr></br>
 
-📸 Preview
-
+<h1>📸 Preview</h1>
 </hr></br>
 A clean calculator interface with responsive buttons and display area.
 
 📷 (You can add a screenshot of your project here later)
 
-🛠️ Technologies Used
+<h1>🛠️ Technologies Used</h1>
 
 </hr></br>
 
@@ -45,8 +43,7 @@ CSS – Styling and layout
 JavaScript – Logic and interactivity
 </hr></br>
 
-🎯 Learning Outcomes
-
+<h1>🎯 Learning Outcomes</h1>
 </hr></br>
 
 Through this project, I learned:
@@ -68,7 +65,7 @@ This project was created as part of my Frontend Development Internship
 to demonstrate my understanding of HTML, CSS, and JavaScript fundamentals.
 </hr></br>
 
-📬 Contact
+<h1>📬 Contact</h1>
 </hr></br>
 
 Feel free to connect with me for feedback or collaboration:
