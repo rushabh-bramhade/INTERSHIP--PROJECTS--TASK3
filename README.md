@@ -10,11 +10,11 @@ Mathematical expressions are evaluated instantly
 The result is displayed on the calculator screen
 
 The Clear (C) button resets the calculator
-</hr></br>
+</hr>
 
 ✨ Features
 
-</hr></br>
+</hr>
 
 Basic arithmetic operations (+, −, ×, ÷)
 
