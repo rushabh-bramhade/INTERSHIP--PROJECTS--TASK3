@@ -1,4 +1,5 @@
-🚀 How It Works
+<h1>🚀 How It Works</h1>
+</hr></br>
 
 Users click buttons to input numbers and operators
 
@@ -10,7 +11,11 @@ The result is displayed on the calculator screen
 
 The Clear (C) button resets the calculator
 
+</br>
+
 ✨ Features
+
+</br>
 
 Basic arithmetic operations (+, −, ×, ÷)
 
@@ -21,8 +26,11 @@ Instant calculation without page reload
 Clean UI with readable display
 
 Beginner-friendly code structure
+</br>
 
 📸 Preview
+
+</br>
 
 A clean calculator interface with responsive buttons and display area.
 
@@ -30,13 +38,18 @@ A clean calculator interface with responsive buttons and display area.
 
 🛠️ Technologies Used
 
+</br>
+
 HTML – Structure of the calculator
 
 CSS – Styling and layout
 
 JavaScript – Logic and interactivity
+</br>
 
 🎯 Learning Outcomes
+
+</br>
 
 Through this project, I learned:
 
@@ -56,13 +69,18 @@ Writing clean, readable, and maintainable code
 
 This project was created as part of my Frontend Development Internship
 to demonstrate my understanding of HTML, CSS, and JavaScript fundamentals.
+</br>
 
 📬 Contact
+
+</br>
 
 Feel free to connect with me for feedback or collaboration:
 
 GitHub: https://github.com/rushabh-bramhade
 
 LinkedIn: https://www.linkedin.com/in/rushabh-bramhade-6455812b6/
+
+</br>
 
 ⭐ If you like this project, don’t forget to star ⭐ the repository!
