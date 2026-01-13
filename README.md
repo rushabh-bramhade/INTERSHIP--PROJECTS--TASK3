@@ -30,7 +30,8 @@ Beginner-friendly code structure
 </hr></br>
 A clean calculator interface with responsive buttons and display area.
 
-📷 (You can add a screenshot of your project here later)
+<img width="1236" height="574" alt="image" src="https://github.com/user-attachments/assets/58f7ebea-3317-4be5-b857-8b165a18b271" />
+
 
 <h1>🛠️ Technologies Used</h1>
 
