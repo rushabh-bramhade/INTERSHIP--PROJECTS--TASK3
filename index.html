@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <div class="music-player">
+
+        <nav>
+            <span class="nav-btn">⟵</span>
+            <span class="nav-btn">☰</span>
+        </nav>
+
+        <img src="media/image.png" class="song-img">
+
+        <h1>Dhurandhar ||(FA9LA) Rahman dakait entry song with LYRICS</h1>
+        <p>Akshay khanna</p>
+
+        <audio id="song">
+            <source src="media/FA9LA - Rehman Dakait Full Song & Dance Video  Dhurandhar Movie Balochi BGM Music - Tunefable Music - Hindi.mp3" type="audio/mpeg">
+        </audio>
+
+        <input type="range" id="progress" value="0">
+        <div class="time">
+    <span id="currentTime">0:00</span>
+    <span id="duration">0:00</span>
+</div>
+
+
+        <div id="controls">
+            <button>⟲</button>
+            <button onclick="playPause()" id="playBtn">▶</button>
+            <button>⟳</button>
+        </div>
+
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
